@@ -1,0 +1,19 @@
+{
+  "name": "appluxury",
+  "version": "0.0.1",
+  "description": "app official Luxury Driving Academy N,J U.S.A",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edisonbrito111/appLuxury.git"
+  },
+  "author": "Edison Brito EDGE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edisonbrito111/appLuxury/issues"
+  },
+  "homepage": "https://github.com/edisonbrito111/appLuxury#readme"
+}
